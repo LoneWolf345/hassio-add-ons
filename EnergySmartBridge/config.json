@@ -4,7 +4,7 @@
   "slug": "EnergySmartBridge",
   "description": "MQTT bridge for the EnergySmart Water Heater WiFi Controller",
   "url": "https://github.com/LoneWolf345/EnergySmartBridge",
-  "startup": "application",
+  "startup": "before",
   "boot": "auto",
   "options": {},
   "schema": {}
