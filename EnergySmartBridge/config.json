@@ -1,10 +1,13 @@
 {
   "name": " EnergySmart Bridge",
-  "version": "2",
+  "version": "3",
   "slug": "energy_smart_bridge",
   "description": "MQTT bridge for the EnergySmart Water Heater WiFi Controller",
   "startup": "before",
   "boot": "auto",
   "options": {},
-  "schema": {}
+  "schema": {},
+  "ports": {
+    "8001/tcp": 8001
+  }
 }
