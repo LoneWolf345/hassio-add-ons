@@ -1,7 +1,7 @@
 {
   "name": " EnergySmart Bridge",
   "version": "2",
-  "slug": "EnergySmartBridge",
+  "slug": "energy_smart_bridge",
   "description": "MQTT bridge for the EnergySmart Water Heater WiFi Controller",
   "startup": "before",
   "boot": "auto",
